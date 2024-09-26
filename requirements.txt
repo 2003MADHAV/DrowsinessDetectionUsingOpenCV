@@ -1,0 +1,7 @@
+opencv-python
+imutils
+dlib
+scipy
+playsound
+numpy
+playsound==1.2.2
