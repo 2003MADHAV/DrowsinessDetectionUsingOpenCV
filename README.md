@@ -33,6 +33,9 @@ To run this project, ensure you have Python installed on your machine. Follow th
    cd DrowsinessDetectionUsingOpenCV
 
 2.Install the required packages:
+
   pip install -r requirements.txt
+  
 3. Download the shape predictor model from dlib's model repository and place it in the project directory.
+   
 4. type This command :- python drowsiness_detection.py
